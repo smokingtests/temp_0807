@@ -6,22 +6,9 @@
 
 The word "mining" is somewhat misleading. 
 
-By evoking the extraction of precious metals, it focuses our attention on the reward for mining, the new bitcoin created in each block. 
+* If you view mining only as the process by which coins are created, you are mistaking the means (incentives) as the goal of the process. 
 
-Although mining is incentivized by this reward, the primary purpose of mining is not the reward or the generation of new coins. 
-
-If you view mining only as the process by which coins are created, you are mistaking the means (incentives) as the goal of the process. 
-
-Mining is the mechanism that underpins the decentralized clearinghouse, by which transactions are validated and cleared. Mining is the invention that makes bitcoin special, a decentralized security mechanism that is the basis for P2P digital cash.
-
-Mining _secures the bitcoin system_ and enables the emergence of network-wide _consensus without a central authority_. 
-
-The reward of newly minted coins and transaction fees is an incentive scheme that aligns the actions of miners with the security of the network, while simultaneously implementing the monetary supply.
-
-[TIP]
-====
- The purpose of mining is not the creation of new bitcoin. That's the incentive system. Mining is the mechanism by which bitcoin's _security_ is _decentralized_.
-====
+* The reward of newly minted coins and transaction fees is an incentive scheme that aligns the actions of miners with the security of the network, while simultaneously implementing the monetary supply.
 
 Miners validate new transactions and record them on the global ledger.
 
